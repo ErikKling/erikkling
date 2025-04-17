@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi there, I’m Erik
 
-<!--
-**ErikKling/erikkling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a doer, sales strategist & aspiring developer – currently serving as COO at [Aithericon](https://aithericon.com).
 
-Here are some ideas to get you started:
+### 🚀 What I’m about
+- Turning ideas into real, working products
+- Shaping the business side of innovative software projects
+- Learning to code to support internal tools and prototypes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Current focus
+- Growing Aithericon
+- Building internal tools to improve workflows
+- Deep-diving into software development alongside my business role
+
+### 💬 Let's connect
+You’ll find me where business meets tech – always building, always learning.
